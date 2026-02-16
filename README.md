@@ -1,2 +1,2 @@
 
-<p align="center"> <img src="assets/exor.png" width="180" alt="Elixir Math Toolkit Logo"/> </p> <p align="center"> <strong>Another mathematical tooling library for cryptography, advanced Mathematics, and artificial intelligence</strong> </p> <p align="center"> Built with ❤️ in <a href="https://elixir-lang.org/">Elixir</a> </p>
+<p align="center"> <img src="assets/exor.png" width="180" alt="Elixir Math Toolkit Logo"/> </p> <p align="center"> <strong>Another mathematical tooling library for cryptography, and artificial intelligence</strong> </p> <p align="center"> Built with ❤️ in <a href="https://elixir-lang.org/">Elixir</a> </p>
